@@ -13,3 +13,7 @@ doc/
 .project
 .DS_Store
 .idea
+
+# Ignore Public/System Folder
+# Set to ignore Paperclip image files
+/public/system
