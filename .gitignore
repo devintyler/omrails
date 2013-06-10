@@ -17,3 +17,6 @@ doc/
 # Ignore Public/System Folder
 # Set to ignore Paperclip image files
 /public/system
+
+# Ignore Sample Images
+/sampleimages
